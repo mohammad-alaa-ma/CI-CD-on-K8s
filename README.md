@@ -82,7 +82,7 @@ Kubernetes Cluster
 ## Directory Structure and Purpose
 
 ```
-app1withci-cd/
+CI-CD-on-K8s/
 ├── README.md                           # Project overview and setup instructions
 ├── README-GKE.md                       # GKE deployment instructions
 ├── Jenkinsfile                         # Jenkins pipeline configuration
