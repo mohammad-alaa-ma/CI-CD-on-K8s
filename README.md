@@ -1,7 +1,7 @@
 # Complete Documentation for Task Manager K8s CI/CD Project
 
 ### 📊 Image showing the flow of project
-<img width="803" height="472" alt="Image" src="https://github.com/user-attachments/assets/045c6513-6133-4b04-9e5b-6a236b65197f" />
+<img width="803" height="472" alt="Image" src="https://github.com/user-attachments/assets/a00cd1dc-0613-4b74-a267-f934cdaa80a8" />
 
 ### 🎬 Demo Video: ArgoCD Automated Deployment
 
